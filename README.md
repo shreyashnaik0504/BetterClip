@@ -118,8 +118,8 @@ BetterClip/
 
 **Better Clip** was created and developed by **Shreyash Naik**.
 
-* **GitHub:** [@shreyashnaik0504](https://www.google.com/search?q=https://github.com/shreyashnaik0504)
-* **Project:** [Better Clip Repository](https://www.google.com/search?q=https://github.com/shreyashnaik0504/BetterClip)
+* **GitHub:** [@shreyashnaik0504](https://github.com/shreyashnaik0504)
+* **Project:** [Better Clip Repository](https://github.com/shreyashnaik0504/BetterClip)
 
 ---
 
