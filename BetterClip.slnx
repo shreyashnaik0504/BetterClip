@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BetterClip.Core/BetterClip.Core.csproj" />
+    <Project Path="src/BetterClip.Services/BetterClip.Services.csproj" />
+    <Project Path="src/BetterClip.UI/BetterClip.UI.csproj">
+      <Platform Project="x64" />
+    </Project>
+  </Folder>
+</Solution>
