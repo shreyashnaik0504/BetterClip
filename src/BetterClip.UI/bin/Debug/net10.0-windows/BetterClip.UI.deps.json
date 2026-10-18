@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BetterClip.UI/1.0.0": {
+        "dependencies": {
+          "BetterClip.Core": "1.0.0",
+          "BetterClip.Services": "1.0.0"
+        },
+        "runtime": {
+          "BetterClip.UI.dll": {}
+        }
+      },
+      "BetterClip.Core/1.0.0": {
+        "runtime": {
+          "BetterClip.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BetterClip.Services/1.0.0": {
+        "dependencies": {
+          "BetterClip.Core": "1.0.0"
+        },
+        "runtime": {
+          "BetterClip.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BetterClip.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BetterClip.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BetterClip.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

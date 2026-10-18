@@ -1,0 +1,11 @@
+C:\Betterclip\src\BetterClip.Core\bin\Debug\net10.0\BetterClip.Core.deps.json
+C:\Betterclip\src\BetterClip.Core\bin\Debug\net10.0\BetterClip.Core.dll
+C:\Betterclip\src\BetterClip.Core\bin\Debug\net10.0\BetterClip.Core.pdb
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.AssemblyInfoInputs.cache
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.AssemblyInfo.cs
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.csproj.CoreCompileInputs.cache
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.dll
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\refint\BetterClip.Core.dll
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\BetterClip.Core.pdb
+C:\Betterclip\src\BetterClip.Core\obj\Debug\net10.0\ref\BetterClip.Core.dll

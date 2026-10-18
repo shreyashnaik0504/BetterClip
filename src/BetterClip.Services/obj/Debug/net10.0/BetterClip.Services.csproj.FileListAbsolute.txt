@@ -1,0 +1,15 @@
+C:\Betterclip\src\BetterClip.Services\bin\Debug\net10.0\BetterClip.Services.deps.json
+C:\Betterclip\src\BetterClip.Services\bin\Debug\net10.0\BetterClip.Services.dll
+C:\Betterclip\src\BetterClip.Services\bin\Debug\net10.0\BetterClip.Services.pdb
+C:\Betterclip\src\BetterClip.Services\bin\Debug\net10.0\BetterClip.Core.dll
+C:\Betterclip\src\BetterClip.Services\bin\Debug\net10.0\BetterClip.Core.pdb
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.csproj.AssemblyReference.cache
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.AssemblyInfoInputs.cache
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.AssemblyInfo.cs
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.csproj.CoreCompileInputs.cache
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterCl.C247EE2F.Up2Date
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.dll
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\refint\BetterClip.Services.dll
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\BetterClip.Services.pdb
+C:\Betterclip\src\BetterClip.Services\obj\Debug\net10.0\ref\BetterClip.Services.dll
